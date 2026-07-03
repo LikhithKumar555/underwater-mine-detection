@@ -10,19 +10,19 @@ Underwater Mine Detection: AI-Driven Maritime Security System
 
 ---
 
-## 🎯 The Problem
+##  The Problem
 
 Manual sonar interpretation and diver-based inspections for underwater mine detection are **costly, hazardous, and prone to misclassification** (false positives/negatives). With global maritime traffic rising and coastal security at stake, the industry desperately needs **autonomous, high-precision classification** that can differentiate between harmless geological formations (rocks) and lethal naval mines in real-time.
 
 ---
 
-## 💡 The Solution
+##  The Solution
 
 I developed a **unified, edge-computing framework** that bridges the gap between sensor-level hardware and advanced machine learning. The system autonomously acquires environmental data, processes it on-board via an optimized SVM classifier, and delivers instant visual feedback to operators—all without relying on bulky, power-hungry servers.
 
 ---
 
-## 🧠 System Architecture & Engineering Highlights
+##  System Architecture & Engineering Highlights
 
 | Component | Technology / Approach | Engineering Rationale |
 | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ graph TD
 
 ---
 
-## 🏆 Key Achievements & Recognition
+##  Key Achievements & Recognition
 
 - **Intellectual Property**: Co-inventor of *"Detection of Underwater Mines from Sensor Data using IoT, ML and Web Technology"* (Indian Patent Application No. **202441035054 A**).
 - **Publications**: Research featured in **IJSRM** (SJIF Rating: 8.448) and presented at institutional conferences—validating the 75%+ accuracy threshold on benchmark sonar datasets.
@@ -52,7 +52,7 @@ graph TD
 
 ---
 
-## 🔍 Technical Deep-Dive (Model & Logic)
+##  Technical Deep-Dive (Model & Logic)
 
 - **Data Source**: Sonar trial data (Gorman & Sejnowski) simulating real oceanic acoustic reflections.
 - **Preprocessing Strategy**: Implemented mean imputation for missing values, standard scaling to normalize feature magnitudes, and stratified splitting to preserve class distributions during validation.
@@ -61,7 +61,7 @@ graph TD
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 | Metric | Result |
 | :--- | :--- |
@@ -72,7 +72,7 @@ graph TD
 
 ---
 
-## 🔭 Future Engineering Roadmap
+##  Future Engineering Roadmap
 
 While the current prototype is fully functional, I have scoped out advanced enhancements to push this into a production-scale maritime solution:
 - **Multi-Modal Fusion**: Integrating Magnetic Anomaly Detection (MAD) and acoustic signatures to boost accuracy beyond 90%.
@@ -82,7 +82,7 @@ While the current prototype is fully functional, I have scoped out advanced enha
 
 ---
 
-## 👥 Team & My Role
+##  Team & My Role
 
 - **Project Context**: Bachelor of Engineering (CSE - AI & ML) Capstone, Vidyavardhaka College of Engineering.
 - **My Core Contributions**:
